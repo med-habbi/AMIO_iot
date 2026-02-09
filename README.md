@@ -116,12 +116,10 @@ text
 [ ] Export CSV
 [ ] Dark/Light auto
 👨‍💻 Auteur
-Étudiant ENSEM Nancy - 3ème année Automatique & Systèmes
-Projet : Surveillance IoTLab pour TD Réseaux & IoT
-Contact : via GitHub Issues
+HABBI Mohammed
+BELFAYEZ Rayen
 
 📄 Licence
 MIT License - Free for educational & research use.
 
-Développé avec ❤️ pour ENSEM Nancy | Février 2026
 Testé sur Pixel 3A API 28 & Galaxy S23 Ultra API 34
